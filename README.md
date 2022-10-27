@@ -1,6 +1,6 @@
 # Tank Battle
 >This is a two-person leisure game called tank battle, which allows people to play games and relax in their spare time. The rules of the game are very simple. Two players operate freely in the map I designed and use various methods to destroy each other's tanks.
->https://scratch.mit.edu/projects/751790973
+>https://scratch.mit.edu/projects/752124566
 ## Table of Contents
 * [Technologies Used](#technologies-used)
 * [Features](#features)
@@ -16,7 +16,7 @@ Scratch 3.0
 - Every time a tank is destroyed, the map will automatically switch, and multiple game scenes will add interest.
 - After the tank is destroyed, it will come back to life immediately, and players can quickly fight again.
 ## Usage
-Click the link https://scratch.mit.edu/projects/751790973 to enter the game or search for "Scratch Project (5) (1) (1)" on Scratch.
+Click the link https://scratch.mit.edu/projects/752124566 to enter the game or search for "Scratch Project (5) (1) (1)" on Scratch.
 ## Project Status
 The project has been completed, and the program basically runs stably, but for some reason, the tank representing Player 1 sometimes fails to fire bullets.
 ## Room for Improvement
